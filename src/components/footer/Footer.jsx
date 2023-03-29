@@ -8,7 +8,7 @@ import {BsFacebook} from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href="#"  className="footer_logo">EGATOR</a>
+      <a href="#"  className="footer_logo">G-TURBINE</a>
 
 
       <ul>
